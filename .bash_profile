@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="eustace.zheng.xw@gmail.com"
+export GMAIL_PASSWORD="Kar3nkaren22"
+export MAILCHIMP_API_KEY="cb8fc4d12031dc2da3699739fef13881-us12"
+export MAILCHIMP_LIST_ID="d424f11f5a"
+export OWNER_EMAIL="eustace.zheng.xw@gmail.com"
